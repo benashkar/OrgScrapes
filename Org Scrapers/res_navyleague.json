@@ -1,0 +1,1290 @@
+[
+    {
+        "website": "", 
+        "council_name": "Mobile", 
+        "contact": "Bill Pfister", 
+        "email": "billpf@comcast.net", 
+        "address": "Mobile, AL"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Anchorage", 
+        "contact": "Lindsey Whitt", 
+        "email": "lwhitt@matson.com", 
+        "address": "Anchorage, AK"
+    }, 
+    {
+        "website": "http://www.phoenixnavyleague.us/", 
+        "council_name": "Phoenix", 
+        "contact": "Jake McManus", 
+        "email": "jake@valley-produce.com", 
+        "address": "Scottsdale, AZ"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Yuma", 
+        "contact": "Chuck LeDrew", 
+        "email": "namvet2@gmail.com", 
+        "address": "Yuma, AZ"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Alameda", 
+        "contact": "Julio Blea", 
+        "email": "michelemlangford@aol.com", 
+        "address": "Alameda, CA"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Bakersfield", 
+        "contact": "Joseph Gianquinto", 
+        "email": "jgianquint@aol.com", 
+        "address": "Bakersfield, CA"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Beverly Hills", 
+        "contact": "Raphael Magana", 
+        "email": "raphael.magana@gmail.com", 
+        "address": "Beverly Hills, CA"
+    }, 
+    {
+        "website": "http://www.navyleaguecica.org", 
+        "council_name": "Channel Islands Council", 
+        "contact": "Stanley Block", 
+        "email": "mr.stanleyblock@gmail.com", 
+        "address": "Port Hueneme, CA"
+    }, 
+    {
+        "website": "http://cccnl.org/", 
+        "council_name": "Contra Costa", 
+        "contact": "Pamela Speka", 
+        "email": "pamspeka1964@gmail.com", 
+        "address": "Pleasant Hill, CA"
+    }, 
+    {
+        "website": "http://crnavyleague.com/", 
+        "council_name": "Corona Riverside", 
+        "contact": "Kevin Button", 
+        "email": "kevindbuttib@gmail.com", 
+        "address": "Corona, CA"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Coronado", 
+        "contact": "Glen Welch, Jr.", 
+        "email": "acewelch65@gmail.com", 
+        "address": "Coronado, CA"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Fresno", 
+        "contact": "Cynthia Oliphant", 
+        "email": "cynthia.oliphant@hotmail.com", 
+        "address": "Clovis, CA"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Greater Los Angeles Women", 
+        "contact": "Julie Stranges", 
+        "email": "jules4vets@yahoo.com", 
+        "address": "Santa Monica, CA"
+    }, 
+    {
+        "website": "http://pages.suddenlink.net/coolsite/nlus/", 
+        "council_name": "Humboldt Bay", 
+        "contact": "Janis Erickson", 
+        "email": "jancearlo@gmail.com", 
+        "address": "Eureka, CA"
+    }, 
+    {
+        "website": "http://www.ivnavyleague.org/", 
+        "council_name": "Imperial Valley", 
+        "contact": "Theodore Gallinat", 
+        "email": "trgallinat@gmail.com", 
+        "address": "El Centro, CA"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Indian Wells Valley", 
+        "contact": "Mark Storch", 
+        "email": "kh2jx@earthlink.net", 
+        "address": "Ridgecrest, CA"
+    }, 
+    {
+        "website": "https://www.facebook.com/inlandempirenlus", 
+        "council_name": "Inland Empire", 
+        "contact": "Ron Barham", 
+        "email": "ron.barham@att.net", 
+        "address": "Temecula, CA"
+    }, 
+    {
+        "website": "http://www.lakemerrittnavyleague.com/", 
+        "council_name": "Lake Merritt", 
+        "contact": "Martha Lantz", 
+        "email": "volunteermarti@pacbell.net", 
+        "address": "San Leandro"
+    }, 
+    {
+        "website": "http://www.longbeachnavyleague.org/", 
+        "council_name": "Long Beach", 
+        "contact": "Paul Abelquist", 
+        "email": "paul.abelquist@charter.net", 
+        "address": "Long Beach, CA"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Malibu", 
+        "contact": "John Payne", 
+        "email": "john@kingsportllc.com", 
+        "address": "Malibu, CA"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Marin County", 
+        "contact": "John Gumba", 
+        "email": "john.gumba@gmail.com", 
+        "address": "San Rafael, CA"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Monterey Peninsula", 
+        "contact": "David Overton", 
+        "email": "dfoverto@nps.edu", 
+        "address": "Monterey, CA"
+    }, 
+    {
+        "website": "http://www.navyleaguenewportbeach.org/", 
+        "council_name": "Newport Beach", 
+        "contact": "Mark Miller", 
+        "email": "mmnavy88@roadrunner.com", 
+        "address": "Newport Beach, CA"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Oakland", 
+        "contact": "Michael Dennis", 
+        "email": "madenniss53@aol.com", 
+        "address": "Albany, CA"
+    }, 
+    {
+        "website": "https://navyleagueoftheunitedstatesorangecountycouncil.wildapricot.org/", 
+        "council_name": "Orange County", 
+        "contact": "John Gates", 
+        "email": "jgates@trimors.com", 
+        "address": "Corona del Mar, CA"
+    }, 
+    {
+        "website": "http://groups.yahoo.com/group/PMMC-NLUS", 
+        "council_name": "Pacific Merchant Marine", 
+        "contact": "Phelps Hobart", 
+        "email": "pmmc@cwo.com", 
+        "address": "Sacramento, CA"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Greater Palm Springs", 
+        "contact": "John Easton", 
+        "email": "jeaston@dc.rr.com", 
+        "address": "Palm Springs, CA"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Placer County", 
+        "contact": "Bonnie Potter", 
+        "email": "bonniebbp@aol.com", 
+        "address": "Auburn, CA"
+    }, 
+    {
+        "website": "http://www.navyleaguesacramento.org/", 
+        "council_name": "Sacramento", 
+        "contact": "John Meyers", 
+        "email": "jpmeyers@surewest.net", 
+        "address": "Sacramento, CA"
+    }, 
+    {
+        "website": "http://www.navyleague-sd.com/", 
+        "council_name": "San Diego", 
+        "contact": "Jon Berg-Johnsen", 
+        "email": "presidentsdnl@gmail.com", 
+        "address": "San Diego, CA"
+    }, 
+    {
+        "website": "", 
+        "council_name": "San Francisco", 
+        "contact": "Angus Blackwood", 
+        "email": "angus@ourwhitespace.com", 
+        "address": "La Honda, CA"
+    }, 
+    {
+        "website": "http://www.santabarbaranavyleague.org/", 
+        "council_name": "Santa Barbara", 
+        "contact": "Kevin McTague", 
+        "email": "kwmctague@gmail.com", 
+        "address": "Santa Barbara, CA"
+    }, 
+    {
+        "website": "http://www.santaclaranavyleague.org/", 
+        "council_name": "Santa Clara Valley", 
+        "contact": "Virginia Stinnett-Gibson", 
+        "email": "vgibson@reliantwater.com", 
+        "address": "San Bruno, CA"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Sonoma County", 
+        "contact": "Fred Imhoff", 
+        "email": "flimhoff@gmail.com", 
+        "address": "Santa Rosa, CA"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Stanislaus County", 
+        "contact": "Stuart McCullough", 
+        "email": "brokerpac@aol.com", 
+        "address": "Modesto, CA"
+    }, 
+    {
+        "website": "http://www.navyleague-coloradosprings.org/", 
+        "council_name": "Colorado Springs", 
+        "contact": "Tom Gregory", 
+        "email": "tgregory.navyleaguecos@gmail.com", 
+        "address": "Colorado Springs, CO"
+    }, 
+    {
+        "website": "http://www.navyleague-denvercouncil.org/", 
+        "council_name": "Denver", 
+        "contact": "Daniel Puleio", 
+        "email": "dpuleio@comcast.net", 
+        "address": "Boulder, CO"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Hartford", 
+        "contact": "Duncan Rowles", 
+        "email": "d.rowles@cox.net", 
+        "address": "Granby, CT"
+    }, 
+    {
+        "website": "http://www.navyleaguewestct.org/", 
+        "council_name": "Western Connecticut", 
+        "contact": "Jason Wathen", 
+        "email": "jason.wathen@gmail.com", 
+        "address": "Norwalk, CT"
+    }, 
+    {
+        "website": "http://www.navyleaguedccouncil.org/", 
+        "council_name": "National Capital", 
+        "contact": "Doug Denneny", 
+        "email": "ceo@coaspire.com", 
+        "address": "Silver Spring, MD"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Boca Delray", 
+        "contact": "Rufus Barber", 
+        "email": "sonnybarber@comcast.net", 
+        "address": "Boca Raton, FL"
+    }, 
+    {
+        "website": "http://www.bcnavyleague.org/", 
+        "council_name": "Broward County", 
+        "contact": "Larry Ott", 
+        "email": "lar9601@aol.com", 
+        "address": "Fort Lauderdale, FL"
+    }, 
+    {
+        "website": "http://www.nlusccc.org/", 
+        "council_name": "Cape Canaveral", 
+        "contact": "James Kuzma", 
+        "email": "jimkuzma83@gmail.com", 
+        "address": "Cape Canaveral, FL"
+    }, 
+    {
+        "website": "http://www.cfnavyleague.org/", 
+        "council_name": "Central Florida", 
+        "contact": "Christopher Townsend", 
+        "email": "flytowny@gmail.com", 
+        "address": "Orlando, FL"
+    }, 
+    {
+        "website": "http://www.navyleaguedaytonabeach.org/", 
+        "council_name": "Daytona Beach", 
+        "contact": "Dennis Dickerson", 
+        "email": "dennissdickerson2@msn.com", 
+        "address": "Daytona Beach, FL"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Everglades", 
+        "contact": "Thomas Melville", 
+        "email": "suncaostom@att.net", 
+        "address": "Coral Springs, FL"
+    }, 
+    {
+        "website": "http://www.ftlnavyleague.org/", 
+        "council_name": "Ft. Lauderdale", 
+        "contact": "Abiud Montes", 
+        "email": "abiud.montes@gmail.com", 
+        "address": "Fort Lauderdale, FL"
+    }, 
+    {
+        "website": "http://www.jaxnlus.org/", 
+        "council_name": "Jacksonville", 
+        "contact": "Bill Webb", 
+        "email": "bill@billwebbmirm.com", 
+        "address": "Jacksonville, FL"
+    }, 
+    {
+        "website": "http://www.keywestnavyleague.org/", 
+        "council_name": "Key West", 
+        "contact": "Carlton Grooms", 
+        "email": "cgrooms@me.com", 
+        "address": "Key West, FL"
+    }, 
+    {
+        "website": "http://www.mayportnlus.org/", 
+        "council_name": "Mayport", 
+        "contact": "Brian Kennedy", 
+        "email": "bk11@comcast.net", 
+        "address": "Jacksonville, FL"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Miami", 
+        "contact": "James Jordan", 
+        "email": "jmjordannlusmia@att.net", 
+        "address": "West Palm Beach, FL"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Palm Beach", 
+        "contact": "Steve Wiggins", 
+        "email": "steve.wiggins@edwardjones.com", 
+        "address": "North Palm Beach, FL"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Panama City/Bay County", 
+        "contact": "Christopher Moore", 
+        "email": "christopher.scott.moore@gmail.com", 
+        "address": "Panama City, FL"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Pensacola", 
+        "contact": "Nan Harper", 
+        "email": "nanharper@nanharper.com", 
+        "address": "Pensacola, FL"
+    }, 
+    {
+        "website": "http://www.sapcnavyleague.org/", 
+        "council_name": "Saint Augustine-Palm Coast", 
+        "contact": "William Dudley", 
+        "email": "anuday00@aol.com", 
+        "address": "Saint Augustine, FL"
+    }, 
+    {
+        "website": "http://www.navyleaguesantarosa.org/", 
+        "council_name": "Santa Rosa County", 
+        "contact": "Sam Vickers", 
+        "email": "samvickers1@mchsi.com", 
+        "address": "Milton, FL"
+    }, 
+    {
+        "website": "http://www.navyleague-sarasota-manatee.org/", 
+        "council_name": "Sarasota-Manatee", 
+        "contact": "Dennis Turner", 
+        "email": "iturnerdennis@gmail.com", 
+        "address": "Sarasota, FL"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Sun Coast", 
+        "contact": "Robert Dickinson", 
+        "email": "pgaefa@aol.com", 
+        "address": "Punta Gorda, FL"
+    }, 
+    {
+        "website": "http://www.tampabaynavyleague.org/", 
+        "council_name": "Tampa Bay", 
+        "contact": "Kevin MacFarland", 
+        "email": "kevinmacsr@gmail.com", 
+        "address": "Tampa, FL"
+    }, 
+    {
+        "website": "http://treasurecoastnavyleague.org/", 
+        "council_name": "Treasure Coast", 
+        "contact": "Maryjo Thompson", 
+        "email": "mj6orchid@gmail.com", 
+        "address": "Vero Beach, FL"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Aiken-Augusta", 
+        "contact": "James Wallace", 
+        "email": "james.wallace@srs.gov", 
+        "address": "Aiken, SC"
+    }, 
+    {
+        "website": "http://www.atlnavyleague.org/", 
+        "council_name": "Atlanta Metropolitan", 
+        "contact": "Harley Jones", 
+        "email": "htjones@mindspring.com", 
+        "address": "Powder Springs, GA"
+    }, 
+    {
+        "website": "http://www.kingsbaynavyleague.org/", 
+        "council_name": "Camden-Kings Bay", 
+        "contact": "Sam Colville", 
+        "email": "slcolville@gmail.com", 
+        "address": "Saint Marys, GA"
+    }, 
+    {
+        "website": "https://www.facebook.com/GoldenIslesCouncilNLUS", 
+        "council_name": "Golden Isles", 
+        "contact": "Charles Elrod", 
+        "email": "elrod@btconline.net", 
+        "address": "Brunswick, GA"
+    }, 
+    {
+        "website": "http://savannahnavyleague.us/", 
+        "council_name": "Savannah", 
+        "contact": "Ormond Fowler", 
+        "email": "les85a@comcast.net", 
+        "address": "Savannah, GA"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Honolulu", 
+        "contact": "Lawrence Osborn", 
+        "email": "losborn@pacificassociatesinc.com", 
+        "address": "Honolulu, HI"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Kauai", 
+        "contact": "Stewart Burley", 
+        "email": "sburley@hawaii.rr.com", 
+        "address": "Kalaheo, HI"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Maui", 
+        "contact": "Suzanne Ayers", 
+        "email": "suzmaui1@gmail.com", 
+        "address": "Lahaina, HI"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Aurora", 
+        "contact": "Richard Todas", 
+        "email": "coltodas@mchsi.com", 
+        "address": "Aurora, IL"
+    }, 
+    {
+        "website": "http://www.chicagonavyleague.org/", 
+        "council_name": "Chicago", 
+        "contact": "Ginny Narsete", 
+        "email": "gnarsete@gmail.com", 
+        "address": "Palatine, IL"
+    }, 
+    {
+        "website": "http://www.navyleagueglenview.org/", 
+        "council_name": "Glenview", 
+        "contact": "Edward Marshall", 
+        "email": "edmarshallvp44@aol.com", 
+        "address": "Glenview, IL"
+    }, 
+    {
+        "website": "http://www.lakecountynlus.org/", 
+        "council_name": "Lake County", 
+        "contact": "Mike French", 
+        "email": "mikefrench1@sbcglobal.net", 
+        "address": "Lake Bluff, IL"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Naperville", 
+        "contact": "Terrence Jelinek", 
+        "email": "jelinst@sbcglobal.net", 
+        "address": "Naperville, IL"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Cedar Rapids", 
+        "contact": "Stephan Regan", 
+        "email": "regan1626@mchsi.com", 
+        "address": "Cedar Rapids, IA"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Des Moines", 
+        "contact": "William Keck", 
+        "email": "bill@keckparking.com", 
+        "address": "West Des Moines"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Dubuque", 
+        "contact": "Glen Gassman", 
+        "email": "grgassman@yahoo.com", 
+        "address": "Dubuque, IA"
+    }, 
+    {
+        "website": "", 
+        "council_name": "South Central", 
+        "contact": "Scott Bishop", 
+        "email": "scott.a.bishop.sab@gmail.com", 
+        "address": "Wichita, KS"
+    }, 
+    {
+        "website": "http://www.nlusckc.org/", 
+        "council_name": "Central Kentucky", 
+        "contact": "David Carter", 
+        "email": "davcart26@twc.com", 
+        "address": "Wilmore, KY"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Baton Rouge", 
+        "contact": "James Window", 
+        "email": "boilers@aol.com", 
+        "address": "Denham Springs, LA"
+    }, 
+    {
+        "website": "http://www.gnonl.org/", 
+        "council_name": "Greater New Orleans", 
+        "contact": "Antonio Rodriguez", 
+        "email": "ajr@frfirm.com", 
+        "address": "Terrytown, LA"
+    }, 
+    {
+        "website": "http://www.navyleaguecascobay.org/", 
+        "council_name": "Casco Bay", 
+        "contact": "Linda Grotton", 
+        "email": "llgrotton@comcast.net", 
+        "address": "Bath, ME"
+    }, 
+    {
+        "website": "http://navyleague-annapolis.weebly.com/", 
+        "council_name": "Annapolis", 
+        "contact": "David Gray", 
+        "email": "davegray.md@gmail.com", 
+        "address": "Annapolis, MD"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Baltimore", 
+        "contact": "Alan Walden", 
+        "email": "arwmedia@aol.com", 
+        "address": "Baltimore, MD"
+    }, 
+    {
+        "website": "http://easternshorecouncilnavyleague.org/", 
+        "council_name": "Eastern Shore", 
+        "contact": "George Lawrence", 
+        "email": "boblawrence1@msn.com", 
+        "address": "Easton, MD"
+    }, 
+    {
+        "website": "http://www.nl-paxriver.org/", 
+        "council_name": "Patuxent River", 
+        "contact": "Roger Cordell", 
+        "email": "roger.cordell@wyle.com", 
+        "address": "Lexington Park, MD"
+    }, 
+    {
+        "website": "http://www.massbaynavyleague.org/", 
+        "council_name": "Berkshire", 
+        "contact": "David Samuels", 
+        "email": "davsamuels@yahoo.com", 
+        "address": "Pittsfield, MA"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Battle Creek/Kalamazoo", 
+        "contact": "Thomas R. Shaw Jr.", 
+        "email": "trsbcmi@aol.com", 
+        "address": "Battle Creek, MI"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Detroit Women", 
+        "contact": "James Semerad", 
+        "email": "jimsemerad@cs.com", 
+        "address": "Harper Woods, MI"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Huron Valley", 
+        "contact": "Philip Klintworth", 
+        "email": "klintpg@uumich.edu", 
+        "address": "Saline, MI (not listed in RE)"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Metropolitan Detroit", 
+        "contact": "Janina Jacobs", 
+        "email": "jjacobs2456@yahoo.com", 
+        "address": "Eastpointe, MI"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Tri-County", 
+        "contact": "Rodney Volk", 
+        "email": "rodneyvolk@yahoo.com", 
+        "address": "Saginaw, MI"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Minnesota", 
+        "contact": "William James", 
+        "email": "williamljames3@gmail.com", 
+        "address": "Saint Michael, MN"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Mississippi", 
+        "contact": "Robert Huff", 
+        "email": "bob.huff@communitybank.net", 
+        "address": "Meridian, MS"
+    }, 
+    {
+        "website": "http://www.navyleaguekansascity.org/", 
+        "council_name": "Greater Kansas City", 
+        "contact": "Jeffrey Wheat", 
+        "email": "jeffreyawheat@gmail.com", 
+        "address": "Kansas City, MO"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Mid-Missouri", 
+        "contact": "Hal Dulle", 
+        "email": "hdulle@hotmail.com", 
+        "address": "Jefferson City, MO"
+    }, 
+    {
+        "website": "http://www.navyleague-stlouis.org/", 
+        "council_name": "Saint Louis", 
+        "contact": "Wayne Chauncey", 
+        "email": "wayout@charter.net", 
+        "address": "St. Louis, MO"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Nebraska", 
+        "contact": "Walter Kirkland", 
+        "email": "walter.p.kirkland.civ@mail.mil", 
+        "address": "Offutt Afb, NE"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Carson City", 
+        "contact": "Clarence Southard", 
+        "email": "brknspokeranch@charter.net", 
+        "address": "Carson City, NV"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Fallon", 
+        "contact": "James Souba", 
+        "email": "jsouba@charter.net", 
+        "address": "Fallon, NV"
+    }, 
+    {
+        "website": "http://www.navyleaguelasvegas.org/", 
+        "council_name": "Las Vegas", 
+        "contact": "Andrew Truelson", 
+        "email": "truelson@att.net", 
+        "address": "Henderson, NV"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Reno", 
+        "contact": "Bernard Stolzman", 
+        "email": "digitwiz01@gmail.com", 
+        "address": "Reno, NV"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Portsmouth", 
+        "contact": "Porter Davis", 
+        "email": "pdavis@woodhullgroup.com", 
+        "address": "Portsmouth, NH"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Atlantic City", 
+        "contact": "John Kenny", 
+        "email": "jkenny302@comcast.net", 
+        "address": "Margate City, NJ"
+    }, 
+    {
+        "website": "http://www.cjnlus.com/", 
+        "council_name": "Central New Jersey", 
+        "contact": "Christine Aaron", 
+        "email": "caaron@tilconny.com", 
+        "address": "South Bound Brook, NJ"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Lakehurst", 
+        "contact": "Ralph Moranz", 
+        "email": "rmoranz@msn.com", 
+        "address": "Lakehurst, NJ"
+    }, 
+    {
+        "website": "http://www.nlusnorthjersey.org/", 
+        "council_name": "North Jersey", 
+        "contact": "Henry Warnke", 
+        "email": "hcwarnke@aol.com", 
+        "address": "Paramus, NJ"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Trenton Men", 
+        "contact": "John Ash", 
+        "email": "trentonmensnl@hotmail.com", 
+        "address": "Ewing, NJ"
+    }, 
+    {
+        "website": "http://www.nmnavyleague.com/", 
+        "council_name": "New Mexico", 
+        "contact": "Charles Vaughan", 
+        "email": "chuck.vaughan@comcast.net", 
+        "address": "Albuquerque, NM"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Central New York", 
+        "contact": "Robert Lipp", 
+        "email": "condornavy1@netzero.com", 
+        "address": "Liverpool, NY"
+    }, 
+    {
+        "website": "http://navyleaguelongisland.org/", 
+        "council_name": "Long Island", 
+        "contact": "Forrest Woodward", 
+        "email": "woodwardf@verizon.net", 
+        "address": "Huntington, NY"
+    }, 
+    {
+        "website": "http://www.nynavyleague.org/", 
+        "council_name": "New York", 
+        "contact": "Charles Blaich", 
+        "email": "cblaich@nynavyleague.org", 
+        "address": "New York, NY"
+    }, 
+    {
+        "website": "http://www.nlusnfc.org/", 
+        "council_name": "Niagara Frontier", 
+        "contact": "Wayne Sorrentino", 
+        "email": "wayne.sorrentino868@gmail.com", 
+        "address": "Buffalo, NY"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Rochester", 
+        "contact": "Paul Costello", 
+        "email": "pkeelycostello@gmail.com", 
+        "address": "Rochester, NY"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Schenectady/Upper Hudson", 
+        "contact": "Chester Watson", 
+        "email": "cwatson2@nycap.rr.com", 
+        "address": "Scotia, NY"
+    }, 
+    {
+        "website": "", 
+        "council_name": "A sheville", 
+        "contact": "Kenneth Vasilik", 
+        "email": "ken@vasilik.com", 
+        "address": "Asheville, NC"
+    }, 
+    {
+        "website": "http://www.nlus-charlotte.org/", 
+        "council_name": "Charlotte", 
+        "contact": "Patrick McCaslin", 
+        "email": "patmcc@yahoo.com", 
+        "address": "Matthews, NC"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Coastal Carolina", 
+        "contact": "Robert Dofner", 
+        "email": "rdofner@suddenlink.net", 
+        "address": "Garnett, SC"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Triangle", 
+        "contact": "Shannon Bray", 
+        "email": "shannon.bray@navalseacadets.org", 
+        "address": "Cary, NC"
+    }, 
+    {
+        "website": "http://www.wilmingtonnavyleague.org/", 
+        "council_name": "Wilmington", 
+        "contact": "David Echevarria", 
+        "email": "davech41@att.net", 
+        "address": "Wilmington, NC"
+    }, 
+    {
+        "website": "", 
+        "council_name": "N orth Dakota", 
+        "contact": "David Johnston", 
+        "email": "ima14er@aol.com", 
+        "address": "Bismarck, ND"
+    }, 
+    {
+        "website": "https://sites.google.com/site/nluscleveland", 
+        "council_name": "Cleveland", 
+        "contact": "Catherine Owen", 
+        "email": "kikinavysk@aol.com", 
+        "address": "Brunswick, OH"
+    }, 
+    {
+        "website": "http://www.cincinnatinavyleague.com/", 
+        "council_name": "Greater Cincinnati", 
+        "contact": "Steve Maynard", 
+        "email": "steve.maynard@ge.com", 
+        "address": "Cincinnati, OH"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Greater Columbus", 
+        "contact": "Udo Maroscher", 
+        "email": "umaroscher@gmail.com", 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Toledo-Erie Islands", 
+        "contact": "William Kopper", 
+        "email": "wakopper@gmail.com", 
+        "address": "Toledo, OH"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Western Reserve", 
+        "contact": "George Lardis", 
+        "email": "glardis@neo.rr.com", 
+        "address": "Warren, OH"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Oklahoma City", 
+        "contact": "Michael Kloiber", 
+        "email": "kloiberm@tinkerfcu.org", 
+        "address": "Midwest City, OK"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Tulsa", 
+        "contact": "Keith Rapp", 
+        "email": "keithrapp@sbcglobal.net", 
+        "address": "Sapulpa, OK"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Blueback Submarine", 
+        "contact": "Loren Lee", 
+        "email": "lleepnw@aol.com", 
+        "address": "Vancouver, WA"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Oregon' Rogue Valley", 
+        "contact": "Arthur Lumley", 
+        "email": "omni727@gmail.com", 
+        "address": "Bedford, OR"
+    }, 
+    {
+        "website": "http://www.navyleagueportland.org/", 
+        "council_name": "Portland", 
+        "contact": "Ken Bray", 
+        "email": "brayjk@gmail.com", 
+        "address": "Portland, OR"
+    }, 
+    {
+        "website": "http://www.navyleague-centralpa.org/", 
+        "council_name": "Central Pennsylvania", 
+        "contact": "John Groenveld", 
+        "email": "groenveld@acm.org", 
+        "address": "State College, PA"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Harrisburg", 
+        "contact": "Christopher Nigon", 
+        "email": "captcsn@aol.com", 
+        "address": "Mountville, PA"
+    }, 
+    {
+        "website": "http://www.navyleaguephilly.org/", 
+        "council_name": "Philadelphia", 
+        "contact": "William Rorer", 
+        "email": "billrorer@yahoo.com", 
+        "address": "Doylestown, PA"
+    }, 
+    {
+        "website": "http://navyleaguepittsburgh.org/", 
+        "council_name": "Pittsburgh", 
+        "contact": "Robert MacPherson", 
+        "email": "Bobmac711@live.com", 
+        "address": "Pittsburgh, PA"
+    }, 
+    {
+        "website": "http://www.newportnavyleague.us/", 
+        "council_name": "Newport County", 
+        "contact": "Thomas Feeney", 
+        "email": "tomaltair@hotmail.com", 
+        "address": "Middletown, RI"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Aiken-Augusta", 
+        "contact": "James Wallace", 
+        "email": "james.wallace@srs.gov", 
+        "address": "Aiken, SC"
+    }, 
+    {
+        "website": "http://www.navyleaguecharleston.org/", 
+        "council_name": "Charleston", 
+        "contact": "Patrick Keaveny", 
+        "email": "patrick.keaveny@comcast.net", 
+        "address": "North Charleston, SC"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Columbia", 
+        "contact": "John Stickney", 
+        "email": "jstickney@bellsouth.net", 
+        "address": "Columbia, SC"
+    }, 
+    {
+        "website": "http://www.hhnlgolf.com/navy", 
+        "council_name": "Hilton Head Island", 
+        "contact": "Peter Hyers", 
+        "email": "hyersp@cs.com", 
+        "address": "Hilton Head Island, SC"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Upper South Carolina", 
+        "contact": "Harry Rittenour", 
+        "email": "hrittenour@gmail.com", 
+        "address": "Simpsonville, SC"
+    }, 
+    {
+        "website": "", 
+        "council_name": "South Dakota", 
+        "contact": "Debra Bodenstedt", 
+        "email": "bobdenstedtd@gmail.com", 
+        "address": "Yankton, SD"
+    }, 
+    {
+        "website": "http://www.chattanooganavyleague.org/", 
+        "council_name": "Greater Chattanooga", 
+        "contact": "Mickey McCamish", 
+        "email": "mickey@riverbendfestival.com", 
+        "address": "Signal Mountain, TN"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Knoxville", 
+        "contact": "Todd Johnson", 
+        "email": "todd.johnson1@outlook.com", 
+        "address": "Farragut, TN"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Memphis", 
+        "contact": "David Sutton", 
+        "email": "david@vlfav.com", 
+        "address": "Memphis, TN"
+    }, 
+    {
+        "website": "http://www.navyleaguesa.org/", 
+        "council_name": "Alamo", 
+        "contact": "Jerome Matthews", 
+        "email": "dragon77@satx.rr.com", 
+        "address": "San Antonio, TX"
+    }, 
+    {
+        "website": "http://www.corpusnavyleague.org/", 
+        "council_name": "Corpus Christi", 
+        "contact": "Alan Guggenheim", 
+        "email": "alan.guggenheim@sensiblecare.org", 
+        "address": "Corpus Christi, TX"
+    }, 
+    {
+        "website": "http://www.navyleaguedallas.org/", 
+        "council_name": "Dallas", 
+        "contact": "Barry Brown", 
+        "email": "bbrown@texasbankandtrust.com", 
+        "address": "Dallas, Texas"
+    }, 
+    {
+        "website": "http://www.fwcnavyleague.org/", 
+        "council_name": "Fort Worth", 
+        "contact": "Richard Driscoll", 
+        "email": "president@fwcnavyleague.org", 
+        "address": "Fort Worth, TX"
+    }, 
+    {
+        "website": "http://www.navyleagueaustin.org/", 
+        "council_name": "Greater Austin", 
+        "contact": "Timothy Hunsberger", 
+        "email": "tahunsberger@earthlink.net", 
+        "address": "Austin, TX"
+    }, 
+    {
+        "website": "http://www.navyleaguehouston.org/", 
+        "council_name": "Greater Houston", 
+        "contact": "Robert Klock", 
+        "email": "klockrb@aol.com", 
+        "address": "Houston, TX"
+    }, 
+    {
+        "website": "http://www.navyleagueingleside.org/", 
+        "council_name": "Ingleside Area", 
+        "contact": "Donald Walker", 
+        "email": "dustybulltx@gmail.com", 
+        "address": "Aransas, TX"
+    }, 
+    {
+        "website": "http://www.kcnl.org/", 
+        "council_name": "Kingsville", 
+        "contact": "Forrest Patton", 
+        "email": "Forrest.patton@navy.mil", 
+        "address": "Kingsville, TX"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Utah", 
+        "contact": "", 
+        "email": "", 
+        "address": ""
+    }, 
+    {
+        "website": "", 
+        "council_name": "D ahlgren", 
+        "contact": "Victor Meyer", 
+        "email": "victor.meyer@hotmail.com", 
+        "address": "Fredericksburg, VA"
+    }, 
+    {
+        "website": "http://www.navyleaguehamptonroads.org/", 
+        "council_name": "Hampton Roads", 
+        "contact": "Jim Monroe", 
+        "email": "jmonroe@ita-int.com", 
+        "address": "Virginia Beach, VA"
+    }, 
+    {
+        "website": "http://novanavyleague.org/", 
+        "council_name": "Northern Virginia", 
+        "contact": "Roger Camp", 
+        "email": "roger.camp@raytheon.com", 
+        "address": "Vienna, VA"
+    }, 
+    {
+        "website": "http://www.navyleague-richmond.com/", 
+        "council_name": "Richmond", 
+        "contact": "John Harler", 
+        "email": "navyleaguerichmond@comcast.net", 
+        "address": "Richmond, VA"
+    }, 
+    {
+        "website": "http://www.navyleague-williamsburgyorktown.org/", 
+        "council_name": "Williamsburg-Yorktown", 
+        "contact": "Norbert Smith", 
+        "email": "norbert.f.smith@cox.net", 
+        "address": "Williamsburg, VA"
+    }, 
+    {
+        "website": "https://bremolympicnlus.wordpress.com/", 
+        "council_name": "Bremerton-Olympic Peninsula", 
+        "contact": "Steven Westover", 
+        "email": "sbwestover@aol.com", 
+        "address": "Bremerton, WA"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Lake Washington - Everett", 
+        "contact": "Sanu Chacko", 
+        "email": "sanukc@seacadets.org", 
+        "address": "Bellevue, WA"
+    }, 
+    {
+        "website": "http://www.oakharbornavyleague.org/", 
+        "council_name": "Oak Harbor", 
+        "contact": "Steve Bristow", 
+        "email": "stow62@comcast.net", 
+        "address": "Oak Harbor, WA"
+    }, 
+    {
+        "website": "http://www.navyleagueseattle.org/", 
+        "council_name": "Seattle", 
+        "contact": "Jeff Davis", 
+        "email": "jeff@navyleagueseattle.org", 
+        "address": "Seattle, WA"
+    }, 
+    {
+        "website": "", 
+        "council_name": "South Puget Sound", 
+        "contact": "Toni Shelton", 
+        "email": "potlatch33@gmail.com", 
+        "address": "Shelton, WA"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Spokane", 
+        "contact": "Ivan Urnovitz", 
+        "email": "pdu5@comcast.net", 
+        "address": "Spokane, WA"
+    }, 
+    {
+        "website": "http://tacomanavyleague.weebly.com/", 
+        "council_name": "Tacoma", 
+        "contact": "Jon Murdock", 
+        "email": "jon.murdock@gmail.com", 
+        "address": "Tacoma, WA"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Greater Green Bay", 
+        "contact": "Nathaniel Millsap", 
+        "email": "Nathaniel.millsap@us.fincantieri.com", 
+        "address": "De Pere, WI"
+    }, 
+    {
+        "website": "http://www.lacrossenavyleague.org/", 
+        "council_name": "La Crosse", 
+        "contact": "Robert Marconi", 
+        "email": "marconib0525@gmail.com", 
+        "address": "La Crosse, WI"
+    }, 
+    {
+        "website": "http://www.madisonnavyleague.org/", 
+        "council_name": "Madison", 
+        "contact": "Edward Nowicki", 
+        "email": "edwardnowicki@sbcglobal.net", 
+        "address": "Madison, WI"
+    }, 
+    {
+        "website": "http://www.milwnavyleague.org/", 
+        "council_name": "Milwaukee", 
+        "contact": "Thomas Plantenberg", 
+        "email": "tplanten@worldaffairsseminar.org", 
+        "address": "Mequon, WI"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Wyoming", 
+        "contact": "Ted Durante", 
+        "email": "teddurante@gmail.com", 
+        "address": "Casper, WY"
+    }, 
+    {
+        "website": "http://www.navyleagueriviera.wordpress.com/", 
+        "council_name": "French Riviera-Monaco", 
+        "contact": "Cornelis Van Vliet", 
+        "email": "navyleague.cannes@gmail.com", 
+        "address": "La Roquette-sur-Siagne, France"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Guam", 
+        "contact": "Lee Webber", 
+        "email": "lee@mdaguam.com", 
+        "address": "Tamuning, GU"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Rome", 
+        "contact": "Laila Thea Volpe", 
+        "email": "navyleaguerome@gmail.com", 
+        "address": "Rome, Italy"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Commodore Perry (Tokyo)", 
+        "contact": "Scott Hancock", 
+        "email": "scotthancock@mskk.com", 
+        "address": "Kanagawa-Ken, Japan"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Sasebo Japan", 
+        "contact": "Michelle Garcia Gomez", 
+        "email": "mkgg.us@gmail.com", 
+        "address": "Sasebo, Japan"
+    }, 
+    {
+        "website": "http://www.vallartanavyleague.org/", 
+        "council_name": "Puerto Vallarta", 
+        "contact": "Jerome Lafferty", 
+        "email": "laffja@aol.com", 
+        "address": "Puerto Vallarta, JAL"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Vieques", 
+        "contact": "Dennis O'Keeffe", 
+        "email": "dennis00765@yahoo.com", 
+        "address": "Vieques, PR"
+    }, 
+    {
+        "website": "http://www.nlus-romania.ro/", 
+        "council_name": "Romania", 
+        "contact": "Teodor Patrichi", 
+        "email": "teodor.patrichi@gmail.com", 
+        "address": "Constanta, Romania"
+    }, 
+    {
+        "website": "http://nlus-sgp.org/", 
+        "council_name": "Singapore", 
+        "contact": "Raymond Corrigan", 
+        "email": "president@nlus-sgp.org", 
+        "address": "Singapore,    Romania"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Barcelona", 
+        "contact": "Salvador Molist", 
+        "email": "molist.serrano@gmail.com", 
+        "address": "Barcelona, Spain"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Levante", 
+        "contact": "Judith Lewis", 
+        "email": "lewisjudith27@gmail.com", 
+        "address": "Benitachell, ALI"
+    }, 
+    {
+        "website": "http://www.nlmadrid.org/", 
+        "council_name": "Madrid", 
+        "contact": "Luis San Miguel", 
+        "email": "presidentnlmadrid@gmail.com", 
+        "address": "Madrid, Spain"
+    }, 
+    {
+        "website": "", 
+        "council_name": "Siam", 
+        "contact": "Hans-Peter Thorand", 
+        "email": "petert@loxinfo.co.th", 
+        "address": "Pattaya City, CH"
+    }, 
+    {
+        "website": "http://www.vinavyleague.org/", 
+        "council_name": "St. Thomas/ St. John", 
+        "contact": "Oscar Ward", 
+        "email": "genward@hotmail.com", 
+        "address": "St. Thomas, VI"
+    }
+]
